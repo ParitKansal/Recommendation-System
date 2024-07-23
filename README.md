@@ -111,7 +111,7 @@ Here's a brief overview of the files in the repository:
 **Description**: Provides random recommendations as a baseline.
 
 **Implementation**: NormalPredictor from the surprise library.
-## Algorith Comparision(Output)
+## Algorithm Comparision(Output)
 
 ![Screenshot](https://github.com/ParitKansal/Recommendation-System/blob/main/Result%20of%20recommendation%20app.png)
 
