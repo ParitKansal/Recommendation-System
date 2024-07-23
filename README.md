@@ -4,16 +4,6 @@
 
 This project implements a recommendation system using various algorithms. The goal is to evaluate the performance of different recommendation techniques and compare them using the MovieLens dataset. The system includes algorithms such as SVD, SVD++, ContentKNN, RBM, AutoRec, and a hybrid model that combines multiple approaches.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Algorithms](#algorithms)
-- [Data](#data)
-- [Evaluation](#evaluation)
-- [License](#license)
-
-
 ## Installation
 
 Install my-project with npm
