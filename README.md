@@ -113,7 +113,7 @@ Here's a brief overview of the files in the repository:
 **Implementation**: NormalPredictor from the surprise library.
 ## Algorith Comparision(Output)
 
-![App Screenshot](https://drive.google.com/file/d/1ljIKcNCSRQPDTIm2xETHzleztEwpjqdT/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1ljIKcNCSRQPDTIm2xETHzleztEwpjqdT)
 
 
 ## Authors
