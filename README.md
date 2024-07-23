@@ -113,8 +113,7 @@ Here's a brief overview of the files in the repository:
 **Implementation**: NormalPredictor from the surprise library.
 ## Algorith Comparision(Output)
 
-![App Screenshot](https://drive.google.com/file/d/1ljIKcNCSRQPDTIm2xETHzleztEwpjqdT)
-
+![Screenshot](https://github.com/ParitKansal/Recommendation-System/blob/main/Result%20of%20recommendation%20app.png)
 
 ## Authors
 
